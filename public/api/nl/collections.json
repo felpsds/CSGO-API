@@ -213,7 +213,7 @@
     "name": "AK-47 | Vulcan",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "302",
@@ -224,7 +224,7 @@
     "name": "M4A4 | Desert-Strike",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "336",
@@ -340,7 +340,7 @@
     "name": "AWP | Lightning Strike",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "51",
@@ -456,7 +456,7 @@
     "name": "P90 | Death by Kitty",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "156",
@@ -627,7 +627,7 @@
     "name": "AK-47 | Fire Serpent",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "180",
@@ -638,7 +638,7 @@
     "name": "Desert Eagle | Golden Koi",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "185",
@@ -787,7 +787,7 @@
     "name": "SSG 08 | Blood in the Water",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "222",
@@ -936,7 +936,7 @@
     "name": "M4A4 | X-Ray",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "215",
@@ -1085,7 +1085,7 @@
     "name": "M4A4 | Asiimov",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "255",
@@ -1096,7 +1096,7 @@
     "name": "Sawed-Off | The Kraken",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "256",
@@ -1245,7 +1245,7 @@
     "name": "CZ75-Auto | Victoria",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "270",
@@ -1394,7 +1394,7 @@
     "name": "AWP | Asiimov",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "279",
@@ -1405,7 +1405,7 @@
     "name": "AUG | Chameleon",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "280",
@@ -1565,7 +1565,7 @@
     "name": "P90 | Asiimov",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "359",
@@ -1576,7 +1576,7 @@
     "name": "M4A1-S | Cyrex",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "360",
@@ -1769,7 +1769,7 @@
     "name": "M4A4 | Bullet Rain",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "155",
@@ -1780,7 +1780,7 @@
     "name": "AK-47 | Jaguar",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "316",
@@ -1940,7 +1940,7 @@
     "name": "AK-47 | Wasteland Rebel",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "380",
@@ -1951,7 +1951,7 @@
     "name": "P2000 | Fire Elemental",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "389",
@@ -2111,7 +2111,7 @@
     "name": "AWP | Man-o'-war",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "395",
@@ -2122,7 +2122,7 @@
     "name": "Galil AR | Chatterbox",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "398",
@@ -2293,7 +2293,7 @@
     "name": "M4A1-S | Hyper Beast",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "430",
@@ -2304,7 +2304,7 @@
     "name": "MAC-10 | Neon Rider",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "433",
@@ -5317,7 +5317,7 @@
     "name": "AWP | Dragon Lore",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "344",
@@ -5873,7 +5873,7 @@
     "name": "AWP | Medusa",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "446",
@@ -6247,7 +6247,7 @@
     "name": "AUG | Akihabara Accept",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "455",
@@ -6429,7 +6429,7 @@
     "name": "AK-47 | Aquamarine Revenge",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "474",
@@ -6440,7 +6440,7 @@
     "name": "AWP | Hyper Beast",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "475",
@@ -6622,7 +6622,7 @@
     "name": "M4A1-S | Golden Coil",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "497",
@@ -6633,7 +6633,7 @@
     "name": "USP-S | Kill Confirmed",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "504",
@@ -6826,7 +6826,7 @@
     "name": "M4A4 | Royal Paladin",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "512",
@@ -6837,7 +6837,7 @@
     "name": "R8-revolver | Fade",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "522",
@@ -7019,7 +7019,7 @@
     "name": "AK-47 | Fuel Injector",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "524",
@@ -7030,7 +7030,7 @@
     "name": "M4A4 | The Battlestar",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "533",
@@ -7771,7 +7771,7 @@
     "name": "PP-Bizon | Judgement of Anubis",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "542",
@@ -7782,7 +7782,7 @@
     "name": "M4A1-S | Chantico's Fire",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "548",
@@ -7975,7 +7975,7 @@
     "name": "Glock-18 | Wasteland Rebel",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "586",
@@ -7986,7 +7986,7 @@
     "name": "M4A1-S | Mecha Industries",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "587",
@@ -8179,7 +8179,7 @@
     "name": "AK-47 | Neon Revolution",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "600",
@@ -8190,7 +8190,7 @@
     "name": "FAMAS | Roll Cage",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "604",
@@ -8383,7 +8383,7 @@
     "name": "SSG 08 | Dragonfire",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "624",
@@ -8394,7 +8394,7 @@
     "name": "M4A4 | Buzz Kill",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "632",
@@ -8587,7 +8587,7 @@
     "name": "AK-47 | Bloodsport",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "639",
@@ -8598,7 +8598,7 @@
     "name": "USP-S | Neo-Noir",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "653",
@@ -8791,7 +8791,7 @@
     "name": "Five-SeveN | Hyper Beast",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "660",
@@ -8802,7 +8802,7 @@
     "name": "AWP | Oni Taiji",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "662",
@@ -8995,7 +8995,7 @@
     "name": "AK-47 | The Empress",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "675",
@@ -9006,7 +9006,7 @@
     "name": "P250 | See Ya Later",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "678",
@@ -9221,7 +9221,7 @@
     "name": "M4A4 | Neo-Noir",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "695",
@@ -9232,7 +9232,7 @@
     "name": "MP7 | Bloodsport",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "696",
@@ -9425,7 +9425,7 @@
     "name": "AK-47 | Neon Rider",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "707",
@@ -9436,7 +9436,7 @@
     "name": "Desert Eagle | Code Red",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "711",
@@ -9645,7 +9645,7 @@
     "name": "AK-47 | Wild Lotus",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "724",
@@ -9854,7 +9854,7 @@
     "name": "AWP | The Prince",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "736",
@@ -10063,7 +10063,7 @@
     "name": "AWP | Gungnir",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "756",
@@ -10919,7 +10919,7 @@
     "name": "AK-47 | Asiimov",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "801",
@@ -10930,7 +10930,7 @@
     "name": "AWP | Neo-Noir",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "803",
@@ -11123,7 +11123,7 @@
     "name": "Five-SeveN | Angry Mob",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "837",
@@ -11134,7 +11134,7 @@
     "name": "M4A4 | The Emperor",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "844",
@@ -11327,7 +11327,7 @@
     "name": "AWP | Containment Breach",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "887",
@@ -11338,7 +11338,7 @@
     "name": "MAC-10 | Stalker",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "898",
@@ -11531,7 +11531,7 @@
     "name": "AWP | Wildfire",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "917",
@@ -11542,7 +11542,7 @@
     "name": "FAMAS | Commemoration",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "919",
@@ -11788,7 +11788,7 @@
     "name": "AK-47 | Gold Arabesque",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "921",
@@ -12044,7 +12044,7 @@
     "name": "AWP | Desert Hydra",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "819",
@@ -12237,7 +12237,7 @@
     "name": "M4A1-S | Player Two",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "946",
@@ -12248,7 +12248,7 @@
     "name": "Glock-18 | Bullet Queen",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "957",
@@ -12441,7 +12441,7 @@
     "name": "Desert Eagle | Printstream",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "962",
@@ -12452,7 +12452,7 @@
     "name": "AK-47 | Legion of Anubis",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "959",
@@ -12645,7 +12645,7 @@
     "name": "M4A1-S | Printstream",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "984",
@@ -12656,7 +12656,7 @@
     "name": "Glock-18 | Neo-Noir",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "988",
@@ -12876,7 +12876,7 @@
     "name": "AWP | Fade",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1026",
@@ -13096,7 +13096,7 @@
     "name": "AK-47 | X-Ray",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1004",
@@ -13352,7 +13352,7 @@
     "name": "M4A1-S | Welcome to the Jungle",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1001",
@@ -13545,7 +13545,7 @@
     "name": "USP-S | The Traitor",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1040",
@@ -13556,7 +13556,7 @@
     "name": "M4A4 | In Living Color",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1041",
@@ -13743,7 +13743,7 @@
     "name": "Glock-18 | Gamma Doppler",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1123",
@@ -13755,7 +13755,7 @@
     "name": "Glock-18 | Gamma Doppler",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1122",
@@ -13767,7 +13767,7 @@
     "name": "Glock-18 | Gamma Doppler",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1121",
@@ -13779,7 +13779,7 @@
     "name": "Glock-18 | Gamma Doppler",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1120",
@@ -13791,7 +13791,7 @@
     "name": "Glock-18 | Gamma Doppler",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1119",
@@ -13803,7 +13803,7 @@
     "name": "M4A4 | The Coalition",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1063",
@@ -14054,7 +14054,7 @@
     "name": "M4A1-S | Imminent Danger",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1073",
@@ -14300,7 +14300,7 @@
     "name": "M4A4 | Eye of Horus",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1255",
@@ -14493,7 +14493,7 @@
     "name": "Desert Eagle | Ocean Drive",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1090",
@@ -14504,7 +14504,7 @@
     "name": "AK-47 | Leet Museo",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1087",
@@ -14697,7 +14697,7 @@
     "name": "AK-47 | Nightwish",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1141",
@@ -14708,7 +14708,7 @@
     "name": "MP9 | Starlight Protector",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1134",
@@ -14901,7 +14901,7 @@
     "name": "USP-S | Printstream",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1142",
@@ -14912,7 +14912,7 @@
     "name": "AWP | Chromatic Aberration",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1144",
@@ -15105,7 +15105,7 @@
     "name": "AK-47 | Head Shot",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1221",
@@ -15116,7 +15116,7 @@
     "name": "M4A4 | Temukau",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1228",
@@ -15309,7 +15309,7 @@
     "name": "AWP | Chrome Cannon",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1170",
@@ -15320,7 +15320,7 @@
     "name": "AK-47 | Inheritance",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1171",
@@ -15513,7 +15513,7 @@
     "name": "Glock-18 | Gold Toof",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "129",
@@ -15524,7 +15524,7 @@
     "name": "M4A1-S | Vaporwave",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "106",
@@ -15717,7 +15717,7 @@
     "name": "FAMAS | Bad Trip",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1184",
@@ -15728,7 +15728,7 @@
     "name": "AWP | Printstream",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1206",
@@ -15921,7 +15921,7 @@
     "name": "M4A4 | Full Throttle",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1353",
@@ -15932,7 +15932,7 @@
     "name": "AK-47 | The Oligarch",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1352",
@@ -16119,7 +16119,7 @@
     "name": "AWP | CMYK",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "163",
@@ -16306,7 +16306,7 @@
     "name": "AK-47 | B the Monster",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "142",
@@ -16493,7 +16493,7 @@
     "name": "M4A1-S | Fade",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1177",
@@ -17654,7 +17654,7 @@
     "name": "AWP | LongDog",
     "rarity": {
      "id": "rarity_ancient_weapon",
-     "name": "Verborgen",
+     "name": "Covert",
      "color": "#eb4b4b"
     },
     "paint_index": "1213",
