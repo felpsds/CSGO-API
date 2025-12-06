@@ -18054,7 +18054,7 @@
   "contains": [
    {
     "id": "keychain-62",
-    "name": "Biomech",
+    "name": "Биомеханика",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18064,7 +18064,7 @@
    },
    {
     "id": "keychain-64",
-    "name": "Gritty",
+    "name": "Непреклонен",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18074,7 +18074,7 @@
    },
    {
     "id": "keychain-63",
-    "name": "Splatter Cat",
+    "name": "Оплискана котка",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18084,7 +18084,7 @@
    },
    {
     "id": "keychain-65",
-    "name": "Fluffy",
+    "name": "Пухчо",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18094,7 +18094,7 @@
    },
    {
     "id": "keychain-66",
-    "name": "Whittle Guy",
+    "name": "Издялканото типче",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18104,7 +18104,7 @@
    },
    {
     "id": "keychain-67",
-    "name": "Lil' Zen",
+    "name": "Мъничко дзен",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18114,7 +18114,7 @@
    },
    {
     "id": "keychain-68",
-    "name": "Lil' Facelift",
+    "name": "Мъничко лицево повдигане",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Забележителен тип",
@@ -18124,7 +18124,7 @@
    },
    {
     "id": "keychain-61",
-    "name": "Big Brain",
+    "name": "Голям акъл",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Забележителен тип",
@@ -18134,7 +18134,7 @@
    },
    {
     "id": "keychain-72",
-    "name": "Bomb Tag",
+    "name": "Бомбен графит",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Забележителен тип",
@@ -18144,7 +18144,7 @@
    },
    {
     "id": "keychain-70",
-    "name": "Lil' Bloody",
+    "name": "Мъничко кърваво",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Забележителен тип",
@@ -18154,7 +18154,7 @@
    },
    {
     "id": "keychain-71",
-    "name": "Lil' Dumplin'",
+    "name": "Мъничка кнедла",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Забележителен тип",
@@ -18164,7 +18164,7 @@
    },
    {
     "id": "keychain-69",
-    "name": "Lil' Chomper",
+    "name": "Мъничък хапльо",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Забележителен тип",
@@ -18174,7 +18174,7 @@
    },
    {
     "id": "keychain-82",
-    "name": "Dr. Brian",
+    "name": "Д-р Брайън",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Забележителен тип",
@@ -18184,7 +18184,7 @@
    },
    {
     "id": "keychain-74",
-    "name": "Lil' Eco",
+    "name": "Мъничко екологично",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Екзотичен тип",
@@ -18194,7 +18194,7 @@
    },
    {
     "id": "keychain-76",
-    "name": "Eye of Ball",
+    "name": "Всевиждащо око",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Екзотичен тип",
@@ -18204,7 +18204,7 @@
    },
    {
     "id": "keychain-77",
-    "name": "Lil' Yeti",
+    "name": "Мъничко йети",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Екзотичен тип",
@@ -18214,7 +18214,7 @@
    },
    {
     "id": "keychain-75",
-    "name": "Hungry Eyes",
+    "name": "Гладни очи",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Екзотичен тип",
@@ -18224,7 +18224,7 @@
    },
    {
     "id": "keychain-79",
-    "name": "Flash Bomb",
+    "name": "Заслепяваща бомба",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Екзотичен тип",
@@ -18234,7 +18234,7 @@
    },
    {
     "id": "keychain-73",
-    "name": "Glitter Bomb",
+    "name": "Блестяща бомба",
     "rarity": {
      "id": "rarity_ancient",
      "name": "Необикновен тип",
@@ -18244,7 +18244,7 @@
    },
    {
     "id": "keychain-78",
-    "name": "8 Ball IGL",
+    "name": "Топка №8 на лидера в играта",
     "rarity": {
      "id": "rarity_ancient",
      "name": "Необикновен тип",
@@ -18254,7 +18254,7 @@
    },
    {
     "id": "keychain-80",
-    "name": "Lil' Ferno",
+    "name": "Мъничък пъкъл",
     "rarity": {
      "id": "rarity_ancient",
      "name": "Необикновен тип",
@@ -18264,7 +18264,7 @@
    },
    {
     "id": "keychain-81",
-    "name": "Butane Buddy",
+    "name": "Бутанова дружка",
     "rarity": {
      "id": "rarity_ancient",
      "name": "Необикновен тип",
@@ -18466,7 +18466,7 @@
   "contains": [
    {
     "id": "keychain-38",
-    "name": "Lil' Curse",
+    "name": "Мъничко проклятие",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18476,7 +18476,7 @@
    },
    {
     "id": "keychain-50",
-    "name": "Lil' No. 2",
+    "name": "Мъничко № 2",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18486,7 +18486,7 @@
    },
    {
     "id": "keychain-44",
-    "name": "Lil' Smokey",
+    "name": "Мъничък пушач",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18496,7 +18496,7 @@
    },
    {
     "id": "keychain-57",
-    "name": "Lil' Vino",
+    "name": "Мъничко винено",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18506,7 +18506,7 @@
    },
    {
     "id": "keychain-48",
-    "name": "Lil' Cackle",
+    "name": "Мъничко кикотене",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18516,7 +18516,7 @@
    },
    {
     "id": "keychain-41",
-    "name": "Dead Weight",
+    "name": "Мъртва тежест",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18526,7 +18526,7 @@
    },
    {
     "id": "keychain-40",
-    "name": "Lil' Baller",
+    "name": "Мъничко баскетболистче",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18536,7 +18536,7 @@
    },
    {
     "id": "keychain-54",
-    "name": "Lil' Tusk",
+    "name": "Мъничък бивник",
     "rarity": {
      "id": "rarity_rare",
      "name": "Висок клас",
@@ -18546,7 +18546,7 @@
    },
    {
     "id": "keychain-56",
-    "name": "Hang Loose",
+    "name": "Дръжте се спокойно",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Забележителен тип",
@@ -18556,7 +18556,7 @@
    },
    {
     "id": "keychain-55",
-    "name": "Lil' Goop",
+    "name": "Мъничко лепкоч",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Забележителен тип",
@@ -18566,7 +18566,7 @@
    },
    {
     "id": "keychain-58",
-    "name": "Lil' Moments",
+    "name": "Мънички мигове",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Забележителен тип",
@@ -18576,7 +18576,7 @@
    },
    {
     "id": "keychain-52",
-    "name": "Pocket Pop",
+    "name": "Джобна ледена близалка",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Забележителен тип",
@@ -18586,7 +18586,7 @@
    },
    {
     "id": "keychain-47",
-    "name": "Magmatude",
+    "name": "Магматичност",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Забележителен тип",
@@ -18596,7 +18596,7 @@
    },
    {
     "id": "keychain-43",
-    "name": "Lil' Buns",
+    "name": "Мънички хлебчета",
     "rarity": {
      "id": "rarity_mythical",
      "name": "Забележителен тип",
@@ -18606,7 +18606,7 @@
    },
    {
     "id": "keychain-60",
-    "name": "Lil' Chirp",
+    "name": "Мъничко чуруликащо",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Екзотичен тип",
@@ -18616,7 +18616,7 @@
    },
    {
     "id": "keychain-51",
-    "name": "Piñatita",
+    "name": "Пинятичка",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Екзотичен тип",
@@ -18626,7 +18626,7 @@
    },
    {
     "id": "keychain-46",
-    "name": "Lil' Happy",
+    "name": "Мъничък щастливец",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Екзотичен тип",
@@ -18636,7 +18636,7 @@
    },
    {
     "id": "keychain-42",
-    "name": "Lil' Prick",
+    "name": "Мъничко бодилче",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Екзотичен тип",
@@ -18646,7 +18646,7 @@
    },
    {
     "id": "keychain-53",
-    "name": "Lil' Hero",
+    "name": "Мъничък герой",
     "rarity": {
      "id": "rarity_legendary",
      "name": "Екзотичен тип",
@@ -18656,7 +18656,7 @@
    },
    {
     "id": "keychain-59",
-    "name": "Lil' Boo",
+    "name": "Мъничко духче",
     "rarity": {
      "id": "rarity_ancient",
      "name": "Необикновен тип",
@@ -18666,7 +18666,7 @@
    },
    {
     "id": "keychain-49",
-    "name": "Quick Silver",
+    "name": "Живак",
     "rarity": {
      "id": "rarity_ancient",
      "name": "Необикновен тип",
@@ -18676,7 +18676,7 @@
    },
    {
     "id": "keychain-45",
-    "name": "Lil' Eldritch",
+    "name": "Мъничка странност",
     "rarity": {
      "id": "rarity_ancient",
      "name": "Необикновен тип",
@@ -18686,7 +18686,7 @@
    },
    {
     "id": "keychain-39",
-    "name": "Lil' Serpent",
+    "name": "Мъничко змийче",
     "rarity": {
      "id": "rarity_ancient",
      "name": "Необикновен тип",
